@@ -77,5 +77,5 @@ Al iniciar la aplicación, se mostrará un menú interactivo:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT.
 
